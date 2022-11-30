@@ -50,3 +50,4 @@ sudo kubeadm init
 #        --discovery-token-ca-cert-hash sha256:63aab431e80faebd6405a6e4d6eb5b9a640665e0580860901248f44e23133a16
 
 what's up
+we have added new lines that should show how pull works
