@@ -49,3 +49,4 @@ sudo kubeadm init
 # sudo kubeadm join 172.31.21.157:6443 --token geezka.sun6mxaqlbfb76ot \
 #        --discovery-token-ca-cert-hash sha256:63aab431e80faebd6405a6e4d6eb5b9a640665e0580860901248f44e23133a16
 
+what's up
